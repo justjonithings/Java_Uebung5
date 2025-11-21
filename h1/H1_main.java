@@ -17,13 +17,6 @@ public class H1_main {
 
         myArray = temp;
 
-        for (int j = 0; j < myArray.length; j++) {
-
-            System.out.println(myArray[j]);
-        }
-
-
-
     }
 
 }

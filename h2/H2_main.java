@@ -33,11 +33,6 @@ public class H2_main {
         
         }
         
-        System.out.println("n: " + n);
-        System.out.println("digits: " + digits);
-        for (int x : a) {
-            System.out.print(x + " ");
-        }
     }
 
 }
